@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/tjfakstn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <!-- 공개할 연락처가 있으면 주석을 풀어 사용 -->
-  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+  <a href="mailto:tjfakstn04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- <a href="YOUR_BLOG_URL"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a> -->
 </p>
 
@@ -50,7 +50,7 @@
 
 - **Ajou University**, Department of Software (2023 ~)
 - **Ajou Univ Coding Trainer** — 객체지향프로그래밍 (Java) (2026-2)
-- **Java Study 운영** — 자바 스터디 직접 진행 (2026-1, 2026-2)
+- **Java Study 운영** — 자바 스터디 진행 (2026-1, 2026-2)
 
 <br>
 
@@ -59,9 +59,9 @@
 - 🛡️ **[HalluGate](https://github.com/tjfakstn/HalluGate)** — 스트리밍 RAG 응답을 문장 단위로 검증하는 LLM 환각 검증 게이트웨이 (2026-2 자기주도프로젝트)
 - 🚗 **[SafeWatch AI](https://github.com/26-2-Paran-SafeWatch/SafeWatch_AI)** — 라즈베리파이5에서 음주운전 의심 차량을 실시간 감지하는 엣지 AI (2026-2 파란학기제)
 - 🐞 **[QAting](https://github.com/tjfakstn/ACJB)** — 재현 절차 등록부터 재검증까지 이어주는 QA 이슈 관리 서비스 (2026-2 캡스톤디자인)
-- 🗺️ **DONG-GLE** — 취향 기반 명소 추천과 AI 코스 생성을 제공하는 안동 여행 앱 (2026.06 ~ 2026.09)
-- 🏫 **[CUU](https://github.com/club-union-university/CUU-BACK-Spring)** — 대학 동아리 가입 · 게시판 · 알림을 제공하는 동아리 연합 플랫폼 (2026.05 해커톤)
-- 🍁 **[Maple RTS](https://github.com/tjfakstn/MapleRTS)** — MapleStory Worlds로 만든 3진영 실시간 전략 게임 (2026.10)
+- 🗺️ **DONG-GLE** — 취향 기반 명소 추천과 AI 코스 생성을 제공하는 안동 여행 앱 (2026 관광데이터 활용 공모전)
+- 🏫 **[CUU](https://github.com/club-union-university/CUU-BACK-Spring)** — 대학 동아리 가입 · 게시판 · 알림을 제공하는 동아리 연합 플랫폼 (GDSC 아주x인하 연합 해커톤)
+- 🍁 **[Maple RTS](https://github.com/tjfakstn/MapleRTS)** — MapleStory Worlds로 만든 3진영 실시간 전략 게임 (메이플스토리 글로벌 컨테스트)
 
 <br>
 
